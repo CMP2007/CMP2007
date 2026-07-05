@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Carlos Puche | Full Stack Developer
 
-I am a pragmatically-driven Full Stack Developer specialized in building robust, end-to-end web applications within the JavaScript ecosystem. My development methodology focuses on architecting secure, optimized REST APIs coupled with efficient database state integration on the backend, while delivering clean, responsive user interfaces on the frontend—all tightly locked under comprehensive E2E and Unit testing automation to production-grade software reliability.
+I am a pragmatically-driven Full Stack Developer specialized in building robust, end-to-end web applications within the JavaScript ecosystem. My development methodology focuses on architecting secure, optimized REST APIs coupled with efficient database state integration on the backend, while delivering clean, responsive user interfaces on the frontend—all tightly locked under comprehensive E2E and Unit testing automation to guarantee production-grade software reliability.
 
 * 🌍 Based in Venezuela
 * 💼 Available for Remote Roles & Freelance Projects (Contracting)
@@ -25,7 +25,7 @@ I am a pragmatically-driven Full Stack Developer specialized in building robust,
 ### 🚀 Full Stack Web Platform (In Active Development & Production Deployment)
 > **A robust, production-grade web application built to integrate modern state synchronization, secure user environments, and rigorous end-to-end testing pipelines.** This project serves as the culmination of advanced full-stack engineering principles, unifying a decoupled architecture into a single scalable workspace.
 
-*   **💻 [Repository & Codebase](Enlace_A_Tu_Monorepositorio_De_GitHub)**
+*   **💻 Repository & Codebase:** *Coming soon*
 *   **🌐 Live Demo:** *Coming soon (Deployment in progress on Render)*
 *   **Key Engineering Milestones Already Implemented:**
     *   **State Architecture:** Transitioned local and server states into lightweight global orchestration using **Zustand** and **TanStack Query** to optimize render cycles.
