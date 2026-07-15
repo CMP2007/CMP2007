@@ -22,17 +22,18 @@ I am a pragmatically-driven Full Stack Developer specialized in building robust,
 
 ## 📂 Featured Applications
 
-### 🚀 Full Stack Web Platform (In Active Development & Production Deployment)
+### 🚀 Full Stack Blog Platform (Production Deployed)
 > **A robust, production-grade web application built to integrate modern state synchronization, secure user environments, and rigorous end-to-end testing pipelines.** This project serves as the culmination of advanced full-stack engineering principles, unifying a decoupled architecture into a single scalable workspace.
 
-*   **💻 Repository & Codebase:** *Coming soon*
-*   **🌐 Live Demo:** *Coming soon (Deployment in progress on Render)*
-*   **Key Engineering Milestones Already Implemented:**
-    *   **State Architecture:** Transitioned local and server states into lightweight global orchestration using **Zustand** and **TanStack Query** to optimize render cycles.
-    *   **Backend & Security:** Designed a secure REST API with Node.js/Express, utilizing token-based authentication (JWT) and encrypted password hashing with bcrypt.
+*   **💻 Repository:** [Explore the Codebase](https://github.com/CMP2007/fullstack-open/tree/main/Part_7)
+*   **🌐 Live Demo:** [View Live Application](https://fullstack-open-blog-app-proyect.onrender.com)
+*   **Key Engineering Achievements:**
+    *   **State Architecture:** Centralized and managed entire client-side application state using **Zustand** stores, eliminating prop drilling and optimizing render cycles.
+    *   **Backend & Security:** Designed a secure REST API with Node.js/Express, utilizing token-based authentication (JWT), encrypted password hashing with bcrypt, and strict role-based route authorization.
     *   **Database Reliability:** Built an isolated testing environment with MongoDB/Mongoose to guarantee safe, automated database state resets between validation runs.
     *   **Automation Pipeline:** Implemented comprehensive multi-view user flow testing via automated **Playwright** E2E and **Vitest** integration suites.
-*   **Technologies:** React, Zustand, TanStack Query, Material UI, Node.js, Express, MongoDB, Mongoose, Playwright, Vitest.
+    *   **Production Deployment:** Configured automated builds and continuous deployment on Render, serving optimized static frontend assets directly through the Express backend.
+*   **Technologies:** React, React Router, Zustand, Material UI, Node.js, Express, MongoDB, Mongoose, Playwright, Vitest.
 
 ---
 
