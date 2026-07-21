@@ -49,5 +49,5 @@ I am a pragmatically-driven Full Stack Developer specialized in building robust,
 If you are a technical recruiter looking for a developer who values code quality and automated testing, or a client looking for a reliable freelancer to handle contract work, MVPs, or custom web solutions, feel free to reach out.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-puche-0444b53ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-puche-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puchecarlos00@gmail.com)
